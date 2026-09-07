@@ -6,8 +6,6 @@ I'm **Harsh**
 **Backend Engineer**  
 Builds efficient, scalable systems.  
 
-========================================
-
 ### Connect 
 
 <p align="left">
