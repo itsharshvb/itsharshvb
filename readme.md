@@ -3,8 +3,8 @@ I'm **Harsh**
 
 
 
-**Backend Engineer**  
-Builds efficient, scalable systems.  
+**Engineer**  
+Designing and building reliable, scalable backend systems with a focus on performance, maintainability, and clean architecture.
 
 ### Connect 
 
